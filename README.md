@@ -14,7 +14,7 @@ AnnonceStaff100st est un plugins d'annonce staff.
 
 # 🧩  Téléchargement
 
-*[Statut581 V1.3.1](https://github.com/Shape581/Statut581/releases/tag/V1.3.1)*
+*[AnnonceStaff100st V1.0.1](https://github.com/cole100st/AnnonceStaff100st/releases/tag/AnnonceStaff100st)*
 
 # 📗  Dépendance
 
